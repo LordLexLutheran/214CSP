@@ -9,8 +9,7 @@ html, body {
 }
 .mainbox{
     background-color: white;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 10%;
+    margin: 10% 10% 10% 10%;
     height: 80%;
+    padding-top: 5px;
 }
